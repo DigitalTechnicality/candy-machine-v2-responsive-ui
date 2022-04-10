@@ -1,10 +1,10 @@
 /* Customize your main colors in :root variables */
 :root {
-  --main-background-color: #343A50;
-  --card-background-color: #51576D;
+  --main-background-color: #00CED1;
+  --card-background-color: #9932CC;
   --card-background-lighter-color: #7A7F92;
-  --main-text-color:#F7F6F4;
-  --title-text-color:#3CBA8B;
+  --main-text-color:#FFFFFF;
+  --title-text-color:#FF00FF;
 }
 
 body{
@@ -12,8 +12,8 @@ body{
   /*background: url("img/background.png");
   background-size: cover;*/
 
-  font-family: 'Patrick Hand', cursive;
-  font-size: 1.1em;
+  font-family: 'Comic Sans MS';
+  font-size: 1.3em;
 }
 
 h2, p{
@@ -21,7 +21,7 @@ h2, p{
 }
 
 h3{
-font-weight: normal;
+font-weight: bold;
 }
 
 
