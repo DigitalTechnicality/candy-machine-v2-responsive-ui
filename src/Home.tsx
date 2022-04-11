@@ -250,7 +250,7 @@ const ShimmerTitle = styled.h1`
 `;
 
 const GoldTitle = styled.h2`
-  color: var(--title-text-color);
+  color: var(--main-background-color);
 `;
 
 const LogoAligner = styled.div`
